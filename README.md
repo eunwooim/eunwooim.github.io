@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+Welcome to visit [eunwooim.github.io](https://eunwooim.github.io)!
+
+This code is based on [Jon Barron's website](https://github.com/jonbarron/website)
